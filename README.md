@@ -21,7 +21,7 @@ I'm **Sam Punitha Raj D.**, a Computer Science and Engineering student at **St. 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,tailwind,mongodb,supabase,firebase,pytorch,opencv,linux,git,github&perline=8" alt="Technology stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,react,tailwind,mongodb,supabase,firebase,pytorch,opencv,linux,git,github&perline=8" alt="Technology stack icons" />
 </div>
 
 ## Featured Projects
@@ -59,17 +59,6 @@ I'm **Sam Punitha Raj D.**, a Computer Science and Engineering student at **St. 
 - **Hitachi Systems India — Security Operations Center:** Gained practical exposure to security monitoring, endpoint detection, and cybersecurity frameworks.
 - **IEEE Zonal Rounds:** Secured **Third Prize**.
 - **BMCRI Docathon:** Project finalist with **MedAudit AI**, a medical document auditing concept.
-
-## GitHub at a Glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamPunithaRajD&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=A78BFA&icon_color=67E8F9&text_color=94A3B8" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamPunithaRajD&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=94A3B8" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamPunithaRajD&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=67e8f9&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
-</div>
 
 ## Contribution Journey
 
