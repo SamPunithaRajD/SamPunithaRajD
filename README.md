@@ -59,6 +59,7 @@ I'm **Sam Punitha Raj D.**, a Computer Science and Engineering student at **St. 
 - **Hitachi Systems India — Security Operations Center:** Gained practical exposure to security monitoring, endpoint detection, and cybersecurity frameworks.
 - **IEEE Zonal Rounds:** Secured **Third Prize**.
 - **BMCRI Docathon:** Project finalist with **MedAudit AI**, a medical document auditing concept.
+- **Published Research Paper — IEEE Xplore:** Co-authored *“FoundationSpeech-Aphasia: A Self-Supervised Multi-Modal Framework for Explainable Aphasia Severity Prediction Using Speech Foundation Models and Clinical Language Analysis.”* [Read the published paper](https://ieeexplore.ieee.org/document/11759575).
 
 ## Contribution Journey
 
